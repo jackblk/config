@@ -25,6 +25,8 @@ Recommended:
 * [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell)
 * [agnoster](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster) (require powerline fonts, install it later)
 
+I use `agnoster`. To remove your PC name (user@macbook) in the shell, add `DEFAULT_USER=user` to your `~/.zshrc`.
+
 
 Edit `~/.zshrc` with your new theme:
 ```
