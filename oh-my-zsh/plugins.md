@@ -1,6 +1,6 @@
 # Settings
 
-Add to `.zshrc`
+Edit `plugins` part in this file `~/.zshrc`
 
 ```
 plugins=(
