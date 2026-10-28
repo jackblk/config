@@ -18,3 +18,4 @@ link() {
 
 link conf.marco
 link Plugins/ghostty.lua
+link Plugins/vscode.lua

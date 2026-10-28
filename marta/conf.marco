@@ -3,5 +3,6 @@ behavior {
 }
 
 keyBindings {
-    "Cmd+Shift+Enter" "moe.haicon.ghostty.open"
+    "Cmd+Shift+Enter" "moe.haicon.vscode.open"
+    "F11" "moe.haicon.ghostty.open"
 }
