@@ -31,3 +31,12 @@ action {
         openInGhostty(info.path)
     end
 }
+
+-- For a hotkey: always opens the current folder, ignoring the cursor
+action {
+    id = "openCurrent",
+    name = "Open current folder in Ghostty",
+    apply = function(context)
+        openInGhostty(context.activePane.model.folderInfo.path)
+    end
+}
