@@ -1,0 +1,7 @@
+behavior {
+    theme "Kon"
+}
+
+keyBindings {
+    "Cmd+Shift+Enter" "moe.haicon.ghostty.open"
+}
